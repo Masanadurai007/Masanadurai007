@@ -1,10 +1,15 @@
-  Hi there, I'm Masana Durai! 👋
+# 👋 Hello, I'm Masanadurai!
 
--  I’m Interested in Full Stack Developer.
--  I’m currently learning Data Structures and Algorithms.
--  I’m looking to collaborate on open-source projects related to web development.
--  You can reach me via email at mmasanadurai007@gmail.com
+## About Me  
+MERN Stack Developer | DSA Problem Solver  
+Currently learning DSA and MERN Stack  
 
+## 📈 Stats  
+![Masanadurai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Masanadurai007&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masanadurai007&layout=compact&theme=radical)  
 
-
+## 🤝 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/masanadurai007)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Masanadurai007)  
+📧 Email: mmasanadurai007@gmail.com  
 
