@@ -9,7 +9,7 @@ Currently learning DSA and MERN Stack
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masanadurai007&layout=compact&theme=radical)  
 
 ## 🤝 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/masanadurai007)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mmasanadurai2005/) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Masanadurai007)  
 📧 Email: mmasanadurai007@gmail.com  
 
