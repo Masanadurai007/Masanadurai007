@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Masanadurai!
 
-## About Me  
+# About Me  
 MERN Stack Developer | DSA Problem Solver  
 Currently learning DSA and MERN Stack  
 
